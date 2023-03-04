@@ -1,5 +1,6 @@
 ---
-hide:
+hide:Hello 
+
   - navigation
   - toc
 ---
